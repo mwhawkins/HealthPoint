@@ -1,10 +1,10 @@
 ﻿/**
- * CMSC 495 Final Project
+ * Final Project
  * Team HealthPoint
  * 
  * ASP.NET MVC 4, .NET version 4.0/4.5
  * 
- * Final Version: July 26, 2013
+ * 
  * Account (login/logout) Controller
  * Most of this was generated automatically by the MVC framework.
  * It is used for user management and security in the application.
