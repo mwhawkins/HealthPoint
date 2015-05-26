@@ -1,10 +1,10 @@
 ﻿/**
- * CMSC 495 Final Project
+ * Final Project
  * Team HealthPoint
  * 
  * ASP.NET MVC 4, .NET version 4.0/4.5
  * 
- * Final Version: July 26, 2013
+ * 
  * Home (main) Controller - provides the 
  * main functionality of the landing screens/webpages
  * such as about pages, help, etc.
