@@ -1,2 +1,2 @@
 # HealthPoint
-HealthPoint Capstone
+HealthPoint capstone project for computer science degree program
