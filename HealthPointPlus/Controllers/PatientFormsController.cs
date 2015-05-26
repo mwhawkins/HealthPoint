@@ -1,10 +1,10 @@
 ﻿/**
- * CMSC 495 Final Project
+ * Final Project
  * Team HealthPoint
  * 
  * ASP.NET MVC 4, .NET version 4.0/4.5
  * 
- * Final Version: July 26, 2013
+ * 
  * Patient Form List Controller -
  * Displays a list (table) of available patient forms
  * */
