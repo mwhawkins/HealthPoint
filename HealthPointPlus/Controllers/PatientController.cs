@@ -1,10 +1,10 @@
 ﻿/**
- * CMSC 495 Final Project
+ * Final Project
  * Team HealthPoint
  * 
  * ASP.NET MVC 4, .NET version 4.0/4.5
  * 
- * Final Version: July 26, 2013
+ * 
  * Patient Controller - controls all of the 
  * patiend data portions of the application.
  * */
