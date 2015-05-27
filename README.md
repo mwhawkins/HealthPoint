@@ -1,4 +1,4 @@
-# HealthPoint Plus (HP+ or HPP)
+# HealthPoint Plus (HPP)
 
 HealthPoint capstone project for undergraduate computer science program. 
 
