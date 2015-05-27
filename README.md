@@ -11,4 +11,4 @@ HealthPoint Plus was a prototype capstone project for an undergraduate computer 
 
 This was an academic project, so it has no ability currently to store personally identifiable data (SSN's) and was not intended for production use in its current state.
 
-If you decide to use this codebase or any part thereof in your own project, please refer to the license.
+If you decide to use this codebase or any part thereof in your own project, please refer to the license. Updates back into this repository are appreciated should anyone wish to share. If enough people are interested, it might convince me to maintain it actively.
