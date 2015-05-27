@@ -1,6 +1,6 @@
 # HealthPoint Plus (HPP)
 
-HealthPoint capstone project for undergraduate computer science program. 
+HealthPoint Plus was a capstone project for an undergraduate computer science program. 
 
 Some features:
 * This project incorporates linear geographical (GIS) routing, geolocation services (for check-in/check-out at a location), a geocoding API.
