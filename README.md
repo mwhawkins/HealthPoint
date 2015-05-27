@@ -1,6 +1,6 @@
 # HealthPoint Plus (HPP)
 
-HealthPoint Plus was a prototype capstone project for an undergraduate computer science program. This was made very rapidly over the course of just a couple weeks and really hasn't been updated since, so I decided to open-source it.
+HealthPoint Plus was a prototype capstone project for an undergraduate computer science program. This was made very rapidly over the course of a couple weeks and really hasn't been updated since, so I decided to open-source it.
 
 **Some features:**
 * This project incorporates linear geographical (GIS) routing, HTML5 browser-based geolocation (for check-in/check-out at a location) and a geocoding API.
