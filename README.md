@@ -3,7 +3,7 @@
 HealthPoint Plus was a capstone project for an undergraduate computer science program. 
 
 **Some features:**
-* This project incorporates linear geographical (GIS) routing, HTML5 browser-based geolocation (for check-in/check-out at a location), a geocoding API.
+* This project incorporates linear geographical (GIS) routing, HTML5 browser-based geolocation (for check-in/check-out at a location) and a geocoding API.
 * It provides custom geo-tagged input forms to collect patient data from clinicians out and about in the community. 
 * It also has the ability to review and edit prior data collected by location and/or patient. 
 * It can save routes for future reference with authenticated protection from unauthorized editing/deletion. 
