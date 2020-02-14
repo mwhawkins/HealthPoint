@@ -4,7 +4,7 @@
  * 
  * ASP.NET MVC 4, .NET version 4.0/4.5
  * 
- * Final Version: July 26, 2013
+ * Final Version
  * Waypoints Database Model
  * */
 
